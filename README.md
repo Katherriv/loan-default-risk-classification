@@ -20,12 +20,12 @@ The API returns:
 
 Capstone_analysis:
  - app.py
- -  test_api.py
- -   loan_model_bundle.joblib
- -     quirements.txt
+ - test_api.py
+ - loan_model_bundle.joblib
+ - requirements.txt
  - Dockerfile
- -  .dockerignore
- -   README.md
+ - .dockerignore
+ - README.md
 
 ## File Descriptions
  - app.py: Contains the FastAPI application, request schema, model loading process, and prediction endpoints
