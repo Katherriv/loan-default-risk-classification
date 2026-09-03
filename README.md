@@ -2,6 +2,12 @@
 
 ## Project Overview
 
+### Business Problem
+To develop a predictive system that can estimate loan-default risk from new applications with accuracy using applicant and loan characteristics
+
+### Solution
+Built, trained and optimized a Random Forest classification model, packaged the trained proprocessing and prediction pipeline, exposed predictions using FastAPI, validated API patterns using pytest, and containerized the application using Docker.
+
 This project entails the deployment of an optimized Random Forest classification model through a FastAPI application.
 
 The deployed model includes the following:
